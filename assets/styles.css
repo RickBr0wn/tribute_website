@@ -5,3 +5,7 @@ body{
 .header{
   text-align: center;
 }
+
+.hero-image{
+  width: 100%;
+}
