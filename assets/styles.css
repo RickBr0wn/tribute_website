@@ -1,11 +1,14 @@
 body{
   background-color: lightgrey;
+  margin: 0;
 }
 
 .header{
   text-align: center;
+  line-height: 6px;
 }
 
-.hero-image{
-  width: 100%;
+.hero-image img{
+  width: 700px;
+  height: 450px;
 }
