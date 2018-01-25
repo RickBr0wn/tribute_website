@@ -1,14 +1,48 @@
 body{
   background-color: lightgrey;
   margin: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .header{
+  font-family: 'Abril Fatface', cursive;
   text-align: center;
-  line-height: 6px;
+  line-height: 8px;
 }
 
-.hero-image img{
-  width: 700px;
-  height: 450px;
+.hero-image{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.list-items ul{
+  list-style: none;
+  text-align: center;
+}
+
+h1{
+  font-size: 12em;
+}
+
+h2{
+  font-size: 4em;
+}
+
+h3{
+  font-size: 2em;
+}
+
+.signature-image{
+  text-align: center;
+}
+
+.text-body{
+  margin: 0 auto;
+  padding-top: 50px;
+  max-width: 75%;
+}
+
+.footer{
+  margin-top: 150px;
+  text-align: center;
 }
