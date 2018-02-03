@@ -8,3 +8,6 @@ User Story: I can click on a link that will take me to an external website with 
 Remember to use Read-Search-Ask if you get stuck.
 
 The brief can be seen here: https://youtu.be/qqrnzmqCGDw
+Free Code Camp: https://www.freecodecamp.org/rickbr0wn
+
+Rick Brown
