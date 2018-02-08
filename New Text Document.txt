@@ -1,0 +1,32 @@
+  <div class="list-items">
+    <h3>
+      <ul>
+        <li>Born John Winston Lennon
+            9th October 1940, Liverpool, England, UK</li>
+        <li>Assasinated on 8th December 1980 (aged 40)
+            Manhattan, New York, US</li>
+        <li>Ashes scattered at Central Park, New York</li>
+        <li>Married Cynthia Powell in 1962, divorced in 1968</li>
+        <li>Married Yoko Ono in 1969</li>
+        <li>Parents Alfred Lennon and Julia Stanley</li>
+      </ul>
+    </h3> 
+  </div>
+
+  <div class="text-body">
+    <p>John Ono Lennon, born John Winston Lennon. He was an English musician, singer and songwriter who rose to worldwide fame as a founder member of the rock band the Beatles, whom were the most commercially successful band in the history of popular music. Together with Paul McCartney, he formed a songwriting partnership that is one of the most celebrated of the 20th century.</p>
+
+    <p> Born and raised in Liverpool, as a teenager Lennon became involved in the skiffle craze; his first band, the Quarrymen, evolved into the Beatles in 1960. When the group disbanded in 1970, Lennon embarked on a solo career that produced the critically acclaimed albums John Lennon/Plastic Ono Band and Imagine, and iconic songs such as “Give Peace a Chance” and “Working Class Hero“. After his marriage to Yoko Ono in 1969, he changed his name to John Ono Lennon. Lennon disengaged himself from the music business in 1975 to raise his infant son Sean, but re-emerged with Ono in 1980 with the new album Double Fantasy. He was murdered three weeks after its release.</p>
+    
+    <p>Lennon revealed a rebellious nature and acerbic wit in his music, writing, drawings, on film and in interviews. Controversial through his political and peace activism, he moved to Manhattan in 1971, where his criticism of the Vietnam War resulted in a lengthy attempt by Richard Nixon‘s administration to deport him, while some of his songs were adopted as anthems by the anti-war movement and the larger counterculture.</p>
+    
+    <p>As of 2012, Lennon‘s solo album sales in the United States exceeded 14 million and, as writer, co-writer or performer, he is responsible for 25 number-one singles on the US Hot 100 chart. In 2002, a BBC poll on the 100 Greatest Britons voted him eighth and, in 2008, Rolling Stone ranked him the fifth-greatest singer of all time. He was posthumously inducted into the Songwriters Hall of Fame in 1987 and into the Rock and Roll Hall of Fame in 1994.</p>
+    
+    <p>At around 10:50 pm on 8 December 1980, as Lennon and Ono returned to their New York apartment in the Dakota, Mark David Chapman shot Lennon in the back four times at the entrance to the building. Lennon was taken to the emergency room of nearby Roosevelt Hospital and was pronounced dead on arrival at 11:07 pm. Earlier that evening, Lennon had autographed a copy of Double Fantasy for Chapman.</p>
+    
+    <p>Ono issued a statement the next day, saying “There is no funeral for John“, ending it with the words, “John loved and prayed for the human race. Please pray the same for him.” His body was cremated at Ferncliff Cemetery in Hartsdale, New York. Ono scattered his ashes in New York’s Central Park, where the Strawberry Fields memorial was later created. Chapman pleaded guilty to second-degree murder and was sentenced to 20 years to life. As of 2014, he remains in prison, having been denied parole eight times.</p>
+  </div>
+
+  <div class="footer">
+    <p>Written by Rick Brown in 2017, and updated in 2018 as part of my Free Code Camp Front End Certification</p>
+  </div>
