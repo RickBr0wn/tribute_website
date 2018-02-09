@@ -53,5 +53,51 @@ body{
 }
 
 iframe{
-    border-radius: 20px;
+    border-radius: 10px;
+}
+
+.quick-facts{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #343A40;
+    color: white;
+}
+
+#quickFact{
+    margin-top: 40px;
+}
+
+.text-holder{
+    margin-top: 60px;
+}
+
+.text-holder p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 85px;
+}
+
+.image-holder{
+    margin-left: 126px;
+    background-image: url("https://www.billboard.com/files/media/john-lennon-paul-mccartney.jpg");
+    height: 390px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 100%;
+    border: 2px black solid
+}
+
+footer{
+    margin-top: 200px;
+    background-color: #343A40;
+    color: white; 
+    padding: 18px 0 8px 0;
+    text-align: center;
+}
+
+footer a{
+    color: white;
 }
